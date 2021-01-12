@@ -1,43 +1,68 @@
-# SCH LIKELION PROJECT
+# 🐯Korea_Hackathon [공식사이트](https://koreahacks.online/)
+2021 1.9 ~ 1.10    
+🐯 고려대학교 해커톤 대회 - 순천향대학교 멋쟁이사자처럼 Team  
 
-## 🚩2020. 1. 9 고려대학교 해커톤 Project  
+
+## 🏆 수상 내역 (23개 팀 참가)
+
+### 심사위원 상😍 수상 ( 심사위원 100% 평가 + 상금 100만원 ) 
+
+![image](https://user-images.githubusercontent.com/60251579/104265631-612a6b00-54d1-11eb-92ef-2d69a2a1d3a7.png)  
+![image](https://user-images.githubusercontent.com/60251579/104265278-8c608a80-54d0-11eb-8668-2a464728421b.png)  
 
 
 ## 👨‍👨‍👨‍👧‍👧Creater Member
 
 ### 🔙Back-end
-- [이남준](https://github.com/ningpop)
-- [김태완](https://github.com/wwan13)
 - [최민석](https://github.com/minsgy) 🚩Team Leader
+- [이남준](https://github.com/ningpop)  
+- [김태완](https://github.com/wwan13)  
+
 ### 🔜Front-end
-- [장하얀](https://github.com/white-jang) 
-- [하유민](https://github.com/qhahd78)
+- [장하얀](https://github.com/white-jang)  
+- [하유민](https://github.com/qhahd78)  
+
+## 📑 프로젝트 명세서  
+
+### 🏆 ANASO Service  
+![image](https://user-images.githubusercontent.com/60251579/104265697-8323ed80-54d1-11eb-93e0-14686e87ab22.png)  
+
+### 📁 Database Class UML
+![image](https://user-images.githubusercontent.com/60251579/104265839-d138f100-54d1-11eb-992f-3802ad7fbacf.png)  
+
+### 📃 File Directory  
+📦users - App  
+📦contest - App  
+📦main - App  
+📦projects - App  
+📦config - Django 프로젝트 파일  
+📦static - STATIC FILE 모음  
 
 
-## 📑 Project Specification
-- 미정
 
 
-## ⏱Installation
-- Django==2.2.1
-- Python3
-- HTML5
-- CSS3
-- JS
-- JQuery
+
+## ⏱Tech Stack
+- Django : 2.2.1  
+- Django-Templates  
+- Python3  
+- HTML5  
+- CSS3  
+- JS  
+- JQuery  
 
 
 ## Commit Rule
 
-- 커밋 메세지 작성시 '[nickname] : message' 의 형식으로 작성 
+- 커밋 메세지 작성시 '[nickname] : message' 의 형식으로 작성  
 
-- 네이밍은 다음과 같이 작성함.
+- 네이밍은 다음과 같이 작성함.  
 
-  - Front-end
+  - Front-end  
     - Point
-      - 시멘틱 Web 구성 신경 쓰기. (center, main, header, footer)
-      - Flex 남발 금지. (적재적소에만 사용하기. 반응형에 알맞는 곳)
-      - class name 작성 시, 띄어쓰기 '-'로 사용. `<div class='logo-item'></div>`
+      - 시멘틱 Web 구성 신경 쓰기. (center, main, header, footer)  
+      - Flex 남발 금지. (적재적소에만 사용하기. 반응형에 알맞는 곳)  
+      - class name 작성 시, 띄어쓰기 '-'로 사용. `<div class='logo-item'></div>`  
     
     - templates
       - VS Code - settings - format on save 켜서 코드 정리 자동화
